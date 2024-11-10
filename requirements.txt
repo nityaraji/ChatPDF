@@ -13,7 +13,7 @@ unstructured
 unstructured[all-docs]
 onnx==1.17.0
 protobuf==3.20.3
-chromadb==0.4.22
+chromadb==<compatible_version>
 langchain-chroma
 PyMuPDf
 Pillow
