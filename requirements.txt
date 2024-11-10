@@ -1,0 +1,19 @@
+python-dotenv
+gradio
+streamlit
+sentence-transformers
+pdfplumber 
+langchain
+langchain-core
+langchain-ollama
+langchain_community
+langchain_text_splitters
+unstructured
+unstructured[all-docs]
+onnx==1.17.0
+protobuf==3.20.3 --ignore-requires-python
+chromadb>=0.5.18
+langchain-chroma
+PyMuPDf
+Pillow
+numpy
